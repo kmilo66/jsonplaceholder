@@ -1,0 +1,18 @@
+{
+  "autenticacion": 
+    {
+		"codigo": 0,
+		"mensaje": null,
+		"data": {
+			"dsnombre": "Administrador Beef",
+			"token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbi1iZWVmIiwiZXhwIjoxNTk1MDE2MzAxLCJpYXQiOjE1OTQ5OTgzMDF9.YWcVdqgmYajYS_vF2ZrRGPt_3jwwZ_OWLaSLpRolbks7--3FzYkkj5_kBVGKx_FF9AHqLtZJ6xunNdBrHSwnig",
+			"lista": [
+				"admin"
+			],
+			"secondsToExpire": 18000
+		}
+	},
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ]
+}
